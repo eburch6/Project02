@@ -1,0 +1,7 @@
+Team Leader: Sanam Bhuiya 
+Project Name: Who Wants to be a Millionaire?
+Description: Our group made who wants to be a millionaire. The user logs in and answers a series of questions.
+Project: Popular Game Show
+Members: 
+Hoan Ngo - Coding
+Eric Burch - Bug Fixing and Presenting 
