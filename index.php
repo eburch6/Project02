@@ -14,8 +14,8 @@
 
 	<!-- MAIN -->
 	<main>
-		<img src="newaccount.png" alt="new account"><a class="bold" href="signup.php"> Sign up for a new account</a><br>
-		<img src="login.png" alt="login"><a class="bold" href="login.php"> Log in to your account</a><br>
+		<img src="newaccount.png" alt="new account"><a class="bold" href="signup.php"> Sign up for a New Account</a><br>
+		<img src="login.png" alt="login"><a class="bold" href="login.php"> Log in to your Account</a><br>
 	</main>
 
 
